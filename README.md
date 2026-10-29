@@ -1,12 +1,10 @@
 # Walas de Lima
 
-### Fundador da Primux Cloud | Desenvolvimento de Software | Engenharia de Infraestrutura
+### Fundador da Primux Cloud · Desenvolvimento de Software · Infraestrutura em Nuvem
 
-Desenvolvedor de software e fundador da **[Primux Cloud](https://Primux.cloud)**, dedicado à arquitetura, ao desenvolvimento e à operação de soluções tecnológicas voltadas à infraestrutura digital.
+Desenvolvedor de software e fundador da **[Primux Cloud](https://Primux.cloud)**, dedicado à construção de soluções tecnológicas, plataformas de software e serviços de infraestrutura digital.
 
-Meu trabalho combina desenvolvimento de software, administração de sistemas, virtualização, redes e automação para construir plataformas confiáveis, seguras e escaláveis.
-
-Tenho interesse especial na criação de soluções que simplificam operações complexas, automatizam processos e proporcionam maior controle sobre ambientes computacionais, desde aplicações e APIs até infraestrutura de servidores e serviços em nuvem.
+Meu foco está na integração entre desenvolvimento de software, engenharia de sistemas e infraestrutura, criando soluções que priorizam segurança, confiabilidade, escalabilidade e eficiência operacional.
 
 <p align="left">
   <a href="https://github.com/Primuxdev">
@@ -19,64 +17,23 @@ Tenho interesse especial na criação de soluções que simplificam operações 
 
 ---
 
-## 01. Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou responsável pela concepção e pelo desenvolvimento de soluções tecnológicas, com foco na integração entre software, infraestrutura e operação.
+Sou responsável pela concepção e pelo desenvolvimento de soluções tecnológicas, com interesse especial na construção de sistemas, automação de processos e gerenciamento de infraestrutura.
 
-Minha atuação está orientada à construção de sistemas que priorizam organização arquitetural, manutenção sustentável, segurança e eficiência operacional.
+Minha atuação combina programação, administração de ambientes Linux, virtualização, redes e operação de serviços digitais.
 
-- **Desenvolvimento de software:** criação de aplicações, serviços de backend, APIs e ferramentas de automação.
-- **Infraestrutura digital:** implantação e administração de servidores, ambientes Linux e recursos computacionais.
-- **Computação em nuvem:** provisionamento, gerenciamento e integração de serviços e recursos de infraestrutura.
-- **Virtualização:** administração de ambientes virtualizados e gerenciamento de máquinas virtuais.
-- **Redes e conectividade:** configuração de serviços de rede, endereçamento IP, roteamento e conectividade entre ambientes.
-- **Automação operacional:** desenvolvimento de ferramentas para reduzir tarefas manuais e padronizar operações.
-- **Segurança e confiabilidade:** aplicação de controles de acesso, isolamento de ambientes e boas práticas de administração.
+- **Desenvolvimento de software:** aplicações de backend, APIs e ferramentas de sistema.
+- **Infraestrutura em nuvem:** gerenciamento e provisionamento de recursos computacionais.
+- **Virtualização:** administração de máquinas virtuais e ambientes isolados.
+- **Sistemas Linux:** configuração, manutenção, monitoramento e diagnóstico de servidores.
+- **Redes e conectividade:** endereçamento IP, DNS, roteamento e comunicação entre serviços.
+- **Automação e DevOps:** padronização de processos, implantação e gerenciamento operacional.
+- **Segurança:** controle de acesso, isolamento de ambientes e proteção de serviços.
 
-## 02. Áreas de especialização
+---
 
-<table>
-  <thead>
-    <tr>
-      <th>Área</th>
-      <th>Foco técnico</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Engenharia de software</td>
-      <td>Aplicações de backend, APIs, serviços e sistemas modulares.</td>
-    </tr>
-    <tr>
-      <td>Infraestrutura em nuvem</td>
-      <td>Provisionamento, gerenciamento e operação de recursos computacionais.</td>
-    </tr>
-    <tr>
-      <td>Virtualização</td>
-      <td>Máquinas virtuais, ambientes isolados e administração de plataformas.</td>
-    </tr>
-    <tr>
-      <td>Administração Linux</td>
-      <td>Serviços de sistema, configuração, diagnóstico e manutenção de servidores.</td>
-    </tr>
-    <tr>
-      <td>Redes e conectividade</td>
-      <td>IPv4, IPv6, DNS, roteamento e comunicação entre serviços.</td>
-    </tr>
-    <tr>
-      <td>Automação e DevOps</td>
-      <td>Scripts, implantação, monitoramento e padronização operacional.</td>
-    </tr>
-    <tr>
-      <td>Dados e persistência</td>
-      <td>Modelagem de dados, PostgreSQL e integração entre aplicações e bancos de dados.</td>
-    </tr>
-  </tbody>
-</table>
-
-## 03. Tecnologias e ferramentas
-
-As tecnologias abaixo representam as ferramentas utilizadas ou relacionadas ao meu trabalho. A lista pode ser ajustada conforme a evolução dos projetos.
+## 🧰 Tecnologias e ferramentas
 
 ### Linguagens de programação
 
@@ -84,149 +41,155 @@ As tecnologias abaixo representam as ferramentas utilizadas ou relacionadas ao m
   <img src="https://skillicons.dev/icons?i=go,bash" alt="Go e Bash" />
 </p>
 
-- **Go:** desenvolvimento de serviços de backend, APIs, ferramentas de sistema e aplicações voltadas à infraestrutura.
-- **Bash:** automação de tarefas administrativas e rotinas em ambientes Linux.
-
-### Bancos de dados e armazenamento
+### Bancos de dados
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
 </p>
 
-- **PostgreSQL:** persistência de dados relacionais, consultas, modelagem e integração com serviços de backend.
-
-### Sistemas operacionais e virtualização
+### Sistemas e infraestrutura
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=linux,docker" alt="Linux e Docker" />
   <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE" />
 </p>
 
-- **Linux:** administração de sistemas, serviços, permissões, processos e diagnóstico operacional.
-- **Proxmox VE:** gerenciamento de infraestrutura virtualizada e máquinas virtuais.
-
-### Contêineres e controle de versão
+### Desenvolvimento e versionamento
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git e GitHub" />
 </p>
 
-- **Docker:** empacotamento e execução de aplicações em contêineres.
-- **Git:** versionamento, histórico de alterações e organização do desenvolvimento.
-- **GitHub:** hospedagem de código, documentação e colaboração em projetos.
+### Principais áreas técnicas
 
-### Infraestrutura e redes
-
-- **Computação em nuvem:** organização e gerenciamento de recursos computacionais.
-- **DNS:** resolução de nomes e gerenciamento de registros de domínio.
-- **IPv4 e IPv6:** endereçamento e conectividade de rede.
-- **Servidores:** implantação, configuração, monitoramento e manutenção de serviços.
-- **Segurança operacional:** permissões, isolamento de serviços e proteção de credenciais.
+| Área | Atuação |
+|---|---|
+| Engenharia de software | Aplicações, APIs e sistemas modulares |
+| Backend | Serviços, integrações e processamento de dados |
+| Computação em nuvem | Provisionamento e gerenciamento de recursos |
+| Virtualização | Máquinas virtuais e infraestrutura computacional |
+| Administração Linux | Serviços, processos, permissões e diagnóstico |
+| Redes | IPv4, IPv6, DNS e conectividade |
+| DevOps | Automação, implantação e monitoramento |
+| Banco de dados | Modelagem relacional e persistência de dados |
 
 ---
 
-## 04. Primux Cloud
+## 🏢 Primux Cloud
 
-<p align="center">
-  <a href="https://Primux.cloud">
-    <img src="https://img.shields.io/badge/Primux-Cloud-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="Primux Cloud" />
-  </a>
-</p>
+**Tecnologia, infraestrutura e inovação.**
 
-A **Primux Cloud** é o projeto empresarial que reúne minha atuação em tecnologia, desenvolvimento de software e infraestrutura digital.
+A **Primux Cloud** é uma iniciativa empresarial voltada ao desenvolvimento de um ecossistema integrado de tecnologia, software e infraestrutura em nuvem.
 
-O objetivo é construir um ecossistema integrado de serviços e ferramentas para empresas, equipes técnicas e desenvolvedores, com foco em simplicidade operacional, confiabilidade e controle da infraestrutura.
+O objetivo é construir soluções para empresas e desenvolvedores, simplificando a administração de ambientes digitais e oferecendo ferramentas para gerenciamento de recursos computacionais.
 
-### Frentes do ecossistema
+### Ecossistema de produtos
 
-| Produto ou área | Objetivo |
+| Produto | Finalidade |
 |---|---|
-| Cloud | Gerenciamento de recursos e serviços em nuvem. |
-| Hosting | Hospedagem de sites e aplicações. |
-| VPS | Computação virtual para aplicações e serviços. |
-| Dedicated | Infraestrutura baseada em servidores dedicados. |
-| Tunnel | Publicação e conectividade segura para aplicações. |
-| DNS | Gerenciamento de domínios e registros DNS. |
-| Vault | Armazenamento, proteção de dados e backups. |
+| **Primux Cloud** | Plataforma central de gerenciamento |
+| **Primux Hosting** | Hospedagem de sites e aplicações |
+| **Primux VPS** | Servidores virtuais |
+| **Primux Dedicated** | Servidores físicos dedicados |
+| **Primux Tunnel** | Conectividade e publicação de aplicações |
+| **Primux DNS** | Gerenciamento de domínios e registros DNS |
+| **Primux Vault** | Armazenamento, backups e restauração |
 
-*Os produtos e recursos devem ser apresentados como disponíveis somente quando estiverem efetivamente implementados e publicados.*
+*Os produtos acima representam a estrutura planejada do ecossistema; a disponibilidade depende do estágio de implementação de cada serviço.*
 
 🌐 **Site oficial:** [https://Primux.cloud](https://Primux.cloud)
 
-## 05. Filosofia de desenvolvimento
+---
 
-### Arquitetura bem definida
+## ⚙️ Princípios de desenvolvimento
 
-Projetar aplicações com responsabilidades claras, componentes organizados e interfaces bem estabelecidas.
+### Arquitetura e organização
 
-### Automação sempre que possível
+Construir sistemas com responsabilidades bem definidas, componentes modulares e estruturas que facilitem a manutenção e a evolução.
 
-Reduzir operações manuais, melhorar a repetibilidade e tornar os processos mais previsíveis.
+### Automação
+
+Reduzir tarefas manuais, padronizar operações e melhorar a repetibilidade dos processos.
 
 ### Segurança desde a concepção
 
-Considerar autenticação, autorização, isolamento, proteção de dados e auditoria durante o desenvolvimento.
+Considerar autenticação, autorização, isolamento, proteção de credenciais e auditoria durante o desenvolvimento.
 
-### Observabilidade e diagnóstico
+### Confiabilidade operacional
 
-Priorizar logs úteis, métricas, rastreabilidade de operações e ferramentas que facilitem a identificação de problemas.
+Priorizar diagnóstico, monitoramento, recuperação de falhas e previsibilidade no comportamento dos serviços.
 
-### Manutenibilidade e evolução
+### Evolução contínua
 
-Criar soluções que possam ser compreendidas, testadas, atualizadas e ampliadas sem complexidade desnecessária.
+Desenvolver soluções que possam ser testadas, documentadas, mantidas e ampliadas com o crescimento das necessidades.
 
 ---
 
-## 06. Projetos e desenvolvimento
+## 🚀 Projetos e desenvolvimento
 
-Este perfil reúne projetos pessoais, experimentos técnicos, ferramentas e iniciativas relacionadas à construção de software e infraestrutura.
+Este perfil reúne projetos, ferramentas e iniciativas relacionadas a software e infraestrutura digital.
 
-Os repositórios podem incluir:
+Entre os temas de interesse estão:
 
 - Aplicações e serviços desenvolvidos em Go.
-- Ferramentas para administração e automação de servidores.
-- Integrações com APIs e plataformas de infraestrutura.
-- Componentes para gerenciamento de recursos computacionais.
-- Documentação, bibliotecas e experimentos de engenharia.
+- APIs e integrações entre sistemas.
+- Ferramentas para administração de servidores.
+- Automação de infraestrutura.
+- Gerenciamento de ambientes virtualizados.
+- Serviços de armazenamento e proteção de dados.
+- Plataformas para gerenciamento de recursos computacionais.
 
-Consulte os repositórios públicos para acompanhar o código, a documentação e a evolução de cada projeto.
-
----
-
-## 07. Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Primuxdev&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&locale=pt-br" alt="Estatísticas do GitHub de Primuxdev" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primuxdev&layout=compact&hide_border=true&theme=transparent&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios públicos" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Primuxdev&hide_border=true&theme=transparent&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
-</p>
-
-*Os indicadores são fornecidos por serviços externos e podem apresentar limitações de disponibilidade, cache ou cobertura de dados.*
+Acompanhe os repositórios públicos para conhecer os projetos, consultar o código e acompanhar sua evolução.
 
 ---
 
-## 08. Contato e links
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Primuxdev&show_icons=true&include_all_commits=true&hide_border=true&locale=pt-br"
+    alt="Estatísticas do GitHub de Walas de Lima"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primuxdev&layout=compact&hide_border=true&locale=pt-br"
+    alt="Linguagens mais utilizadas nos repositórios públicos"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Primuxdev?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explorar-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explorar repositórios"
+    />
+  </a>
+</p>
+
+*Os cartões de estatísticas dependem de serviços externos e podem ficar temporariamente indisponíveis. As linguagens exibidas são calculadas a partir dos repositórios analisados pelo serviço.*
+
+---
+
+## 📫 Contato e links
 
 <p align="left">
   <a href="https://github.com/Primuxdev">
     <img src="https://img.shields.io/badge/GitHub-Primuxdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://Primux.cloud">
-    <img src="https://img.shields.io/badge/Site-Primux.cloud-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site oficial" />
+    <img src="https://img.shields.io/badge/Site_Oficial-Primux.cloud-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site oficial da Primux Cloud" />
   </a>
 </p>
 
-Para assuntos relacionados aos projetos, desenvolvimento de software e infraestrutura, consulte os repositórios públicos e os canais oficiais da Primux.
+Para conhecer meus projetos, consulte os repositórios públicos deste perfil. Para informações sobre os serviços e iniciativas empresariais, acesse o site oficial da Primux Cloud.
 
 ---
 
 <p align="center">
-  <strong>Construindo software. Projetando infraestrutura. Transformando ideias em tecnologia.</strong>
+  <strong>Construindo software. Projetando infraestrutura. Desenvolvendo soluções para o futuro digital.</strong>
 </p>
 
 <p align="center">
-  <sub>Walas de Lima · Desenvolvedor de Software e Fundador da Primux Cloud</sub>
+  <sub>Walas de Lima · Fundador da Primux Cloud</sub>
 </p>
